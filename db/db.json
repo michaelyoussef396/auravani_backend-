@@ -1,444 +1,189 @@
 {
-  "example": [
+  "auravani_popular": [
     {
       "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani white shorts",
+      "image": "https://i.imgur.com/iIRYeZj.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
     },
     {
       "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani white shirts",
+      "image": "https://i.imgur.com/WEdKKXl.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
     },
     {
       "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani white shirts",
+      "image": "https://i.imgur.com/1uGfJjg.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
     },
     {
       "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/SAFgctu.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    }
+  ],
+
+  "auravani_collection": [
+    {
+      "id": 1,
+      "name": "auravani white shorts",
+      "image": "https://i.imgur.com/iIRYeZj.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    },
+    {
+      "id": 2,
+      "name": "auravani white shirts",
+      "image": "https://i.imgur.com/WEdKKXl.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
+    },
+    {
+      "id": 3,
+      "name": "auravani white shirts",
+      "image": "https://i.imgur.com/1uGfJjg.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
+    },
+    {
+      "id": 4,
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/SAFgctu.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
     },
     {
       "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shirts",
+      "image": "https://i.imgur.com/SAFgctu.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
     },
     {
       "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani blue jumpers",
+      "image": "https://i.imgur.com/LpFBMVR.jpg",
+      "new_price": 50.00,
+      "old_price": 78.99
     },
     {
       "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani blue jumpers",
+      "image": "https://i.imgur.com/d4nHJeZ.jpg",
+      "new_price": 50.00,
+      "old_price": 78.99
     },
     {
       "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani blue pants",
+      "image": "https://i.imgur.com/CB87xK8.jpg",
+      "new_price": 40.00,
+      "old_price": 58.99
     },
     {
       "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani blue pants",
+      "image": "https://i.imgur.com/n7Asd3b.jpg",
+      "new_price": 40.00,
+      "old_price": 58.99
     },
     {
       "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black jumper",
+      "image": "https://i.imgur.com/N4i7KPw.jpg",
+      "new_price": 60.00,
+      "old_price": 88.99
     },
     {
       "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/ED1rdVg.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
     },
     {
       "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shirts",
+      "image": "https://i.imgur.com/ENi2cxe.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
     },
     {
       "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black jacket",
+      "image": "https://i.imgur.com/PRq0Ghh.jpg",
+      "new_price": 60.00,
+      "old_price": 88.99
     },
     {
       "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black jacket",
+      "image": "https://i.imgur.com/y7VxPym.jpg",
+      "new_price": 60.00,
+      "old_price": 88.99
     },
     {
       "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/hv5TNuU.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
     },
     {
       "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shirts",
+      "image": "https://i.imgur.com/rtqD9VX.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
     },
     {
       "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/5HDtUwv.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
     },
     {
       "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black hat",
+      "image": "https://i.imgur.com/WwP6QZ7.jpg",
+      "new_price": 20.00,
+      "old_price": 40.99
     },
     {
       "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/Nzmvh44.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
     },
     {
       "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/Dzr6sCJ.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
     },
     {
       "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black jumper",
+      "image": "https://i.imgur.com/C8Op8IV.jpg",
+      "new_price": 60.00,
+      "old_price": 88.99
     },
     {
       "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/6dOK95H.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
     }
   ]
 }
