@@ -30,17 +30,78 @@
     }
   ],
 
+  "auravani_new_collection": [
+    {
+      "id": 1,
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/hv5TNuU.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    },
+    {
+      "id": 2,
+      "name": "auravani black shirts",
+      "image": "https://i.imgur.com/rtqD9VX.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
+    },
+    {
+      "id": 3,
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/5HDtUwv.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    },
+    {
+      "id": 4,
+      "name": "auravani black hat",
+      "image": "https://i.imgur.com/WwP6QZ7.jpg",
+      "new_price": 20.00,
+      "old_price": 40.99
+    },
+    {
+      "id": 5,
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/Nzmvh44.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    },
+    {
+      "id": 6,
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/Dzr6sCJ.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    },
+    {
+      "id": 7,
+      "name": "auravani black jumper",
+      "image": "https://i.imgur.com/C8Op8IV.jpg",
+      "new_price": 60.00,
+      "old_price": 88.99
+    },
+    {
+      "id": 8,
+      "name": "auravani black shorts",
+      "image": "https://i.imgur.com/6dOK95H.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    }
+  ],
+
   "auravani_collection": [
     {
       "id": 1,
       "name": "auravani white shorts",
       "image": "https://i.imgur.com/iIRYeZj.jpg",
+      "category": "kid",
       "new_price": 25.00,
       "old_price": 49.99
     },
     {
       "id": 2,
       "name": "auravani white shirts",
+      "category": "men",
       "image": "https://i.imgur.com/WEdKKXl.jpg",
       "new_price": 39.00,
       "old_price": 56.99
@@ -48,6 +109,7 @@
     {
       "id": 3,
       "name": "auravani white shirts",
+      "category": "women",
       "image": "https://i.imgur.com/1uGfJjg.jpg",
       "new_price": 39.00,
       "old_price": 56.99
@@ -55,6 +117,7 @@
     {
       "id": 4,
       "name": "auravani black shorts",
+      "category": "kid",
       "image": "https://i.imgur.com/SAFgctu.jpg",
       "new_price": 25.00,
       "old_price": 49.99
@@ -62,6 +125,7 @@
     {
       "id": 5,
       "name": "auravani black shirts",
+      "category": "men",
       "image": "https://i.imgur.com/SAFgctu.jpg",
       "new_price": 39.00,
       "old_price": 56.99
@@ -69,6 +133,7 @@
     {
       "id": 6,
       "name": "auravani blue jumpers",
+      "category": "women",
       "image": "https://i.imgur.com/LpFBMVR.jpg",
       "new_price": 50.00,
       "old_price": 78.99
@@ -76,6 +141,7 @@
     {
       "id": 7,
       "name": "auravani blue jumpers",
+      "category": "kid",
       "image": "https://i.imgur.com/d4nHJeZ.jpg",
       "new_price": 50.00,
       "old_price": 78.99
@@ -83,6 +149,7 @@
     {
       "id": 8,
       "name": "auravani blue pants",
+      "category": "men",
       "image": "https://i.imgur.com/CB87xK8.jpg",
       "new_price": 40.00,
       "old_price": 58.99
@@ -90,6 +157,7 @@
     {
       "id": 9,
       "name": "auravani blue pants",
+      "category": "women",
       "image": "https://i.imgur.com/n7Asd3b.jpg",
       "new_price": 40.00,
       "old_price": 58.99
@@ -97,6 +165,7 @@
     {
       "id": 10,
       "name": "auravani black jumper",
+      "category": "kid",
       "image": "https://i.imgur.com/N4i7KPw.jpg",
       "new_price": 60.00,
       "old_price": 88.99
@@ -104,6 +173,7 @@
     {
       "id": 11,
       "name": "auravani black shorts",
+      "category": "men",
       "image": "https://i.imgur.com/ED1rdVg.jpg",
       "new_price": 25.00,
       "old_price": 49.99
@@ -111,6 +181,7 @@
     {
       "id": 12,
       "name": "auravani black shirts",
+      "category": "women",
       "image": "https://i.imgur.com/ENi2cxe.jpg",
       "new_price": 39.00,
       "old_price": 56.99
@@ -118,6 +189,7 @@
     {
       "id": 13,
       "name": "auravani black jacket",
+      "category": "kid",
       "image": "https://i.imgur.com/PRq0Ghh.jpg",
       "new_price": 60.00,
       "old_price": 88.99
@@ -125,6 +197,7 @@
     {
       "id": 14,
       "name": "auravani black jacket",
+      "category": "men",
       "image": "https://i.imgur.com/y7VxPym.jpg",
       "new_price": 60.00,
       "old_price": 88.99
@@ -132,6 +205,7 @@
     {
       "id": 15,
       "name": "auravani black shorts",
+      "category": "women",
       "image": "https://i.imgur.com/hv5TNuU.jpg",
       "new_price": 25.00,
       "old_price": 49.99
@@ -139,6 +213,7 @@
     {
       "id": 16,
       "name": "auravani black shirts",
+      "category": "kid",
       "image": "https://i.imgur.com/rtqD9VX.jpg",
       "new_price": 39.00,
       "old_price": 56.99
@@ -146,6 +221,7 @@
     {
       "id": 17,
       "name": "auravani black shorts",
+      "category": "men",
       "image": "https://i.imgur.com/5HDtUwv.jpg",
       "new_price": 25.00,
       "old_price": 49.99
@@ -153,6 +229,7 @@
     {
       "id": 18,
       "name": "auravani black hat",
+      "category": "kid",
       "image": "https://i.imgur.com/WwP6QZ7.jpg",
       "new_price": 20.00,
       "old_price": 40.99
@@ -160,6 +237,7 @@
     {
       "id": 19,
       "name": "auravani black shorts",
+      "category": "men",
       "image": "https://i.imgur.com/Nzmvh44.jpg",
       "new_price": 25.00,
       "old_price": 49.99
@@ -167,6 +245,7 @@
     {
       "id": 20,
       "name": "auravani black shorts",
+      "category": "women",
       "image": "https://i.imgur.com/Dzr6sCJ.jpg",
       "new_price": 25.00,
       "old_price": 49.99
@@ -174,6 +253,7 @@
     {
       "id": 21,
       "name": "auravani black jumper",
+      "category": "kid",
       "image": "https://i.imgur.com/C8Op8IV.jpg",
       "new_price": 60.00,
       "old_price": 88.99
@@ -181,9 +261,123 @@
     {
       "id": 22,
       "name": "auravani black shorts",
+      "category": "men",
       "image": "https://i.imgur.com/6dOK95H.jpg",
       "new_price": 25.00,
       "old_price": 49.99
+    },
+    {
+      "id": 23,
+      "name": "auravani black hat",
+      "category": "men",
+      "image": "https://i.imgur.com/WwP6QZ7.jpg",
+      "new_price": 20.00,
+      "old_price": 40.99
+    },
+    {
+      "id": 24,
+      "name": "auravani black hat",
+      "category": "women",
+      "image": "https://i.imgur.com/WwP6QZ7.jpg",
+      "new_price": 20.00,
+      "old_price": 40.99
+    },
+    {
+      "id": 25,
+      "name": "auravani black shirts",
+      "category": "men",
+      "image": "https://i.imgur.com/rtqD9VX.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
+    },
+    {
+      "id": 26,
+      "name": "auravani black shorts",
+      "category": "men",
+      "image": "https://i.imgur.com/Dzr6sCJ.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    },
+    {
+      "id": 27,
+      "name": "auravani white shorts",
+      "image": "https://i.imgur.com/iIRYeZj.jpg",
+      "category": "men",
+      "new_price": 25.00,
+      "old_price": 49.99
+    },
+    {
+      "id": 28,
+      "name": "auravani white shirts",
+      "category": "women",
+      "image": "https://i.imgur.com/WEdKKXl.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
+    },
+    {
+      "id": 29,
+      "name": "auravani black jumper",
+      "category": "women",
+      "image": "https://i.imgur.com/N4i7KPw.jpg",
+      "new_price": 60.00,
+      "old_price": 88.99
+    },
+    {
+      "id": 30,
+      "name": "auravani black shirts",
+      "category": "women",
+      "image": "https://i.imgur.com/SAFgctu.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
+    },
+    {
+      "id": 31,
+      "name": "auravani black jumper",
+      "category": "women",
+      "image": "https://i.imgur.com/N4i7KPw.jpg",
+      "new_price": 60.00,
+      "old_price": 88.99
+    },
+    {
+      "id": 32,
+      "name": "auravani black jumper",
+      "category": "women",
+      "image": "https://i.imgur.com/C8Op8IV.jpg",
+      "new_price": 60.00,
+      "old_price": 88.99
+    },
+    {
+      "id": 33,
+      "name": "auravani black shorts",
+      "category": "kid",
+      "image": "https://i.imgur.com/hv5TNuU.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    },
+    {
+      "id": 34,
+      "name": "auravani black shirts",
+      "category": "kid",
+      "image": "https://i.imgur.com/rtqD9VX.jpg",
+      "new_price": 39.00,
+      "old_price": 56.99
+    },
+    {
+      "id": 35,
+      "name": "auravani black shorts",
+      "category": "kid",
+      "image": "https://i.imgur.com/5HDtUwv.jpg",
+      "new_price": 25.00,
+      "old_price": 49.99
+    },
+    {
+      "id": 36,
+      "name": "auravani black hat",
+      "category": "kid",
+      "image": "https://i.imgur.com/WwP6QZ7.jpg",
+      "new_price": 20.00,
+      "old_price": 40.99
     }
+    
   ]
 }

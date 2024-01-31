@@ -11,13 +11,10 @@ server.use(middlewares);
 
 const PORT = process.env.PORT || 3000;
 
-// Add custom routes before JSON Server router
 server.get('/__rules', (req, res) => {
-  // Handle the custom route here, for example, send a JSON response
   res.jsonp({ message: 'This is the __rules route' });
 });
 
-// Use default router
 server.use(router);
 
 server.listen(PORT, () => {
